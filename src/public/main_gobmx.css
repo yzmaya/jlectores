@@ -6054,7 +6054,7 @@ a.badge:hover {
     padding: 4px;
     line-height: 1.428571429;
     background-color: #fff;
-    border: 1px solid #ddd;
+    border: 5px solid #9f3a3a;
     border-radius: 4px;
     -webkit-transition: border .2s ease-in-out;
     transition: border .2s ease-in-out;
@@ -9235,7 +9235,7 @@ dt {
 }
 
 .tab-content {
-    border: 1px solid #eee;
+    /*! border: 1px solid #eee; */
     border-top: none;
     padding: 25px
 }
