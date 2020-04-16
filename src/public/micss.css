@@ -20,3 +20,20 @@
   .visita{
       padding-top: 100px;
   }
+  .green{
+    margin:10px 0 20px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 0px inset #CCCCCC;
+     position:relative;
+    box-sizing: content-box;
+    height: 0;
+  }
+
+  .footer{
+      color: white;
+
+  }
+
+  .footer:hover {
+      color: white;
+  }
