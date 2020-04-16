@@ -1,0 +1,22 @@
+.carruselnaranja{
+    color: white;
+}
+
+.carruseln{
+    color: white;
+    font-style: italic;
+    text-align: right;
+    text-decoration-line: none;
+    font-weight: bold; 
+}
+
+.carruseln:hover {
+    color: white;
+    text-decoration-line: none;
+  }
+  .imgcarrusel{
+      padding: 4%;
+  }
+  .visita{
+      padding-top: 100px;
+  }
