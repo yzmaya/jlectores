@@ -1541,7 +1541,7 @@ body {
 *,
 :after,
 :before {
-    box-sizing: border-box
+    box-sizing: border-box;
 }
 
 html {
@@ -5958,7 +5958,7 @@ a.label:hover {
 
 .media-object,
 .thumbnail {
-    display: block
+    display: inline-block;
 }
 
 .btn-group-xs>.btn .badge,
@@ -8066,7 +8066,7 @@ time {
 }
 
 a {
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 .breadcrumb a,
@@ -8267,13 +8267,13 @@ main[role=main] .border-box dl dd {
 
 hr.red {
     margin: 10px 0 70px;
-    border-top-color: #DCE0E0;
+    border-top-color: #00AC92;
 }
 
 hr.red:before {
     width: 35px;
     height: 5px;
-    background-color: #B38E5D;
+    background-color: #adc7e0;
     position: absolute
 }
 
