@@ -163,7 +163,7 @@ img {
 
 hr,
 img {
-    border: 0
+    border: 0;
 }
 
 body,
@@ -7495,9 +7495,9 @@ background: #428bca;
 .carousel-inner>.item>a>img,
 .carousel-inner>.item>img {
     display: block;
-    max-width: 13%;
+    max-width: 100%;
     height: 50%;
-    line-height: 1
+    line-height: 1;
 }
 
 @media all and (transform-3d),
